@@ -1,4 +1,4 @@
-package com.example.digitalhousedesafio3.activity.activity
+package com.example.digitalhousedesafio3.activity.activity.ui
 
 import android.content.Intent
 import android.os.Bundle
