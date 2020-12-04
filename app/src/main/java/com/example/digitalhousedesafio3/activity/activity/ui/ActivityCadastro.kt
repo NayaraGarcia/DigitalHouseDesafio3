@@ -1,5 +1,6 @@
 package com.example.digitalhousedesafio3.activity.activity.ui
 
+import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.example.digitalhousedesafio3.R
@@ -17,6 +18,8 @@ class ActivityCadastro : AppCompatActivity() {
             this.onBackPressed()
         }
 
-
+        btnFinalizaCadastro.setOnClickListener {
+            startActivity(Intent(this, ActivityLista::class.java))
         }
     }
+}
