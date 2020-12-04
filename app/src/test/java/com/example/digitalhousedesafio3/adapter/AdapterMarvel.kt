@@ -1,6 +1,5 @@
-package com.example.digitalhousedesafio3.activity.activity.adapter
+package com.example.digitalhousedesafio3.adapter
 
-import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup

@@ -1,4 +1,4 @@
-package com.example.digitalhousedesafio3.activity.activity.ui
+package com.example.digitalhousedesafio3.ui
 
 import android.text.method.PasswordTransformationMethod
 import android.view.View

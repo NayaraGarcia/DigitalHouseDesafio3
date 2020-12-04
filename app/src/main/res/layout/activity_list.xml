@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/azul_fundo"
-    tools:context=".activity.activity.viewmodel.ListViewModel"
+    tools:context="com.example.digitalhousedesafio3.viewmodel.ListViewModel"
     android:orientation="vertical">
 
     <LinearLayout

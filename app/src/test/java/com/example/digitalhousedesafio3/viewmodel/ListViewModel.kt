@@ -1,4 +1,4 @@
-package com.example.digitalhousedesafio3.activity.activity.viewmodel
+package com.example.digitalhousedesafio3.viewmodel
 
 import androidx.lifecycle.ViewModel
 
